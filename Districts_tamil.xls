@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+td
+{
+	padding:10px;	
+}
+</style>
+</head>
+<body>
+<table width="29%" border="1" cellpadding="0" cellspacing="0" bordercolor="#5FC1F5" style="border-collapse:collapse; font: bold 10pt Verdana, Geneva, sans-serif; color:#000;" align="center" valign="middle" >
+  <tr bgcolor="#FFFFFF" style="background-image: -moz-linear-gradient(top, #dcf4fe 25%, #b6eaff 80%); ">
+    <td colspan="2" align="center">List of Districts of Tamil Nadu</td>
+  </tr>
+  <tr bgcolor="#FFFFFF" style="background-image: -moz-linear-gradient(top, #dcf4fe 25%, #b6eaff 80%); ">
+    <td width="28%" align="center">District Code</td>
+    <td width="72%" align="center">District Name</td>
+  </tr>
+    <tr>
+    <td align="center">1</td>
+    <td align="left">காஞ்சிபுரம்</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td align="left">திருவள்ளுர்</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td align="left">கடலூர்</td>
+  </tr>
+    <tr>
+    <td align="center">4</td>
+    <td align="left">விழுப்புரம்</td>
+  </tr>
+    <tr>
+    <td align="center">5</td>
+    <td align="left">வேலூர்</td>
+  </tr>
+    <tr>
+    <td align="center">6</td>
+    <td align="left">திருவண்ணாமலை</td>
+  </tr>
+    <tr>
+    <td align="center">7</td>
+    <td align="left">சேலம்</td>
+  </tr>
+    <tr>
+    <td align="center">8</td>
+    <td align="left">நாமக்கல்</td>
+  </tr>
+    <tr>
+    <td align="center">9</td>
+    <td align="left">தர்மபுரி</td>
+  </tr>
+    <tr>
+    <td align="center">10</td>
+    <td align="left">ஈரோடு</td>
+  </tr>
+    <tr>
+    <td align="center">11</td>
+    <td align="left">கோயம்புத்தூர்</td>
+  </tr>
+    <tr>
+    <td align="center">12</td>
+    <td align="left">நீலகிரி</td>
+  </tr>
+    <tr>
+    <td align="center">13</td>
+    <td align="left">தஞ்சாவூர்</td>
+  </tr>
+    <tr>
+    <td align="center">14</td>
+    <td align="left">நாகப்பட்டினம்</td>
+  </tr>
+    <tr>
+    <td align="center">15</td>
+    <td align="left">திருவாரூர்</td>
+  </tr>
+    <tr>
+    <td align="center">16</td>
+    <td align="left">திருச்சிராப்பள்ளி</td>
+  </tr>
+    <tr>
+    <td align="center">17</td>
+    <td align="left">கரூர்</td>
+  </tr>
+    <tr>
+    <td align="center">18</td>
+    <td align="left">பெரம்பலூர்</td>
+  </tr>
+    <tr>
+    <td align="center">19</td>
+    <td align="left">புதுக்கோட்டை</td>
+  </tr>
+    <tr>
+    <td align="center">20</td>
+    <td align="left">மதுரை</td>
+  </tr>
+    <tr>
+    <td align="center">21</td>
+    <td align="left">தேனி</td>
+  </tr>
+    <tr>
+    <td align="center">22</td>
+    <td align="left">திண்டுக்கல்</td>
+  </tr>
+    <tr>
+    <td align="center">23</td>
+    <td align="left">ராமநாதபுரம்</td>
+  </tr>
+    <tr>
+    <td align="center">24</td>
+    <td align="left">விருதுநகர்</td>
+  </tr>
+    <tr>
+    <td align="center">25</td>
+    <td align="left">சிவகங்கை</td>
+  </tr>
+    <tr>
+    <td align="center">26</td>
+    <td align="left">திருநெல்வேலி</td>
+  </tr>
+    <tr>
+    <td align="center">27</td>
+    <td align="left">தூத்துக்குடி</td>
+  </tr>
+    <tr>
+    <td align="center">28</td>
+    <td align="left">கன்னியாகுமரி</td>
+  </tr>
+    <tr>
+    <td align="center">30</td>
+    <td align="left">கிருஷ்ணகரி</td>
+  </tr>
+    <tr>
+    <td align="center">31</td>
+    <td align="left">அரியலூர்</td>
+  </tr>
+    <tr>
+    <td align="center">32</td>
+    <td align="left">திருப்பூர்</td>
+  </tr>
+  </table>
+<div align="center">* Chennai (29) is an Urban District </div>
+</body>
+</html>
